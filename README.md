@@ -1,11 +1,11 @@
-# sip-call
+# NfcChecker
 
-Making voip calls using a SIP provider
+Nfc checker
 
 ## Install
 
 ```bash
-npm install window-soft-input-mode-manager
+npm install nfc-checker
 npx cap sync
 ```
 

@@ -1,7 +1,7 @@
 {
-  "name": "window-soft-input-mode-manager",
-  "version": "0.0.3",
-  "description": "window-soft-input-mode-manager",
+  "name": "nfc-checker",
+  "version": "0.0.4",
+  "description": "nfc-checker",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Oussie00/window-soft-input-mode-manager.git"
+    "url": "git+https://github.com/Oussie00/capacitor-nfc-checker.git"
   },
   "bugs": {
-    "url": "https://github.com/Oussie00/window-soft-input-mode-manager/issues"
+    "url": "https://github.com/Oussie00/capacitor-nfc-checker/issues"
   },
   "keywords": [
     "capacitor",
